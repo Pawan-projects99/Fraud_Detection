@@ -1,47 +1,0 @@
-
-F
-&
-__dummy"
-__dummy_idJfraud_detection
-¾²Ä¨øšÊ¾²Ä¨øšÊ
-K
-+
-merchant_id"merchant_idJfraud_detection
-¾²Ä€¦Ê¾²Ä€¦Ê
-C
-#
-user_id"user_idJfraud_detection
-¾²Ä°¡Ê¾²Ä°¡Ê1"$fd1eb551-0f0d-4a85-b252-3faea8388acb*ıÛÄà«è2Ç
-
-user_behaviourfraud_detectionuser_id"
-avg_transaction"
-transaction_count_30d"
-decline_rate_60d2€´¼:†event_timestampZ./data/user_features.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢./data/user_features.parquet@b
-user_id²
-¾²ÄĞ£¤ÊıÛÄè°Şä
-ÌşÒÁËª–çõ‹ÄĞÒíê
-çõ‹ÄĞÒíêÿÎÄ°Ç¨ã
-ÿÎÄ°Ç¨ãçõ‹ÄĞÒíê
-ÿÎÄ°Ç¨ãçõ‹ÄĞÒíê
-ÿÎÄ°Ç¨ãçõ‹ÄĞÒíê2Ã
-‹
-merchant_risk_profilefraud_detectionmerchant_id"
-
-fraud_rate"
-avg_transaction_value2€ÎÚ:event_timestampZ" ./data/merchant_features.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢ ./data/merchant_features.parquet@b
-merchant_id²
-¾²Äø×ªÊıÛÄÀ›˜è
-Ìä´ÀĞéÉ«çõ‹ÄĞÒíê
-çõ‹ÄĞÒíêÿÎÄ°Ç¨ã
-ÿÎÄ°Ç¨ãçõ‹ÄĞÒíê
-ÿÎÄ°Ç¨ãçõ‹ÄĞÒíê
-ÿÎÄ°Ç¨ãçõ‹ÄĞÒíêRÃ
-¢
-,feast.infra.online_stores.sqlite.SqliteTable"r
-I/Users/pawankalyanreddy/Projects/Fraud_Detection/features/online_store.db%fraud_detection_merchant_risk_profile
-›
-,feast.infra.online_stores.sqlite.SqliteTable"k
-I/Users/pawankalyanreddy/Projects/Fraud_Detection/features/online_store.dbfraud_detection_user_behaviourb˜event_timestampZ./data/user_features.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢./data/user_features.parquetªfraud_detectionb event_timestampZ" ./data/merchant_features.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢ ./data/merchant_features.parquetªfraud_detectionŠ1
-
-fraud_detection
-¾²ÄØÎÃ¾²ÄØÎÃ
