@@ -1,0 +1,12 @@
+# venv
+fraud_detection_env/
+.env/
+*.env/
+
+#Data_atrifacts
+*.db
+*.parquet
+
+.DS_Store
+Thumbs.db
+

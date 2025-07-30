@@ -1,0 +1,3 @@
+{
+    "python.defaultInterpreterPath": "./fraud_detection_env/bin/python"
+}

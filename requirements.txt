@@ -1,0 +1,11 @@
+pandas
+scikit-learn
+xgboost
+tensorflow
+kafka-python
+feast
+evidently
+transformers
+torch
+torchvision
+torchaudio
