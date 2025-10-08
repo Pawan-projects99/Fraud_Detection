@@ -106,5 +106,5 @@ A Streamlit dashboard displays live metrics for:
 Pavan Kalyan Reddy Burgapally
 AI/ML Engineer | Data Scientist
 📧 pawankalyanburgapally@gmail.com
-🔗 LinkedIn
+Linkedin: https://www.linkedin.com/in/pavan-kalyan-b-a91505276
 
